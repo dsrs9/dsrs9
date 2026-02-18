@@ -1,4 +1,5 @@
 Mi principal enfoque es el desarrollo de video juegos 
+
 Tambien suelo a inclinarme por el desarrollo de software
 
 ### Lenguajes 
