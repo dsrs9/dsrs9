@@ -1,6 +1,8 @@
 
 # Hola, soy Daniel Rincón :)
 
+## Estudiante de ingenieria de sistemas y computacion | Unal Colombia
+
 Mi principal enfoque es el desarrollo de video juegos 
 
 Tambien suelo a inclinarme por el desarrollo de software
